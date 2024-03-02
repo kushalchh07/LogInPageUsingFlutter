@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20055790311",
+    "project_id": "login-cbc07",
+    "storage_bucket": "login-cbc07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20055790311:android:904b919dfda57360470842",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXHt7gT9Q93gqAbyfVj1mNBZgxKmCyO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

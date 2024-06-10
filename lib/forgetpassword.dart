@@ -54,7 +54,7 @@ class _ForgetPasswordState extends State<ForgetPassword> {
           Text(
             "Enter the email to reset Password:",
             textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 30),
+            style: TextStyle(fontSize: 30), 
           ),
           SizedBox(
             height: 10,
